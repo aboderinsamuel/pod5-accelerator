@@ -508,4 +508,4 @@ If you use this work in your research, please cite:
 
 ## Contact
 
-For questions or issues, please open a GitHub issue or contact: your.email@example.com
+For questions or issues, please open a GitHub issue or contact: aboderinseun01@gmail.com
