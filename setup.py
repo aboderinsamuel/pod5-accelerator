@@ -8,12 +8,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="pod5-accelerator",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Samuel Aboderin",
+    author_email="aboderinseun01@gmail.com",
     description="High-performance POD5 file reader for Oxford Nanopore sequencing data",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pod5-accelerator",
+    url="https://github.com/aboderinsamuel/pod5-accelerator",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

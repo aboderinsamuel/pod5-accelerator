@@ -129,7 +129,7 @@ pod5-accelerator/
 ### Install from source
 
 ```bash
-git clone https://github.com/yourusername/pod5-accelerator.git
+git clone https://github.com/aboderinsamuel/pod5-accelerator.git
 cd pod5-accelerator
 pip install -r requirements.txt
 pip install -e .
@@ -494,9 +494,9 @@ If you use this work in your research, please cite:
 ```
 @software{pod5_accelerator,
   title = {POD5 Accelerator: High-Performance Reader for Oxford Nanopore Data},
-  author = {Your Name},
+  author = {Samuel Aboderin},
   year = {2026},
-  url = {https://github.com/yourusername/pod5-accelerator}
+  url = {https://github.com/aboderinsamuel/pod5-accelerator}
 }
 ```
 
